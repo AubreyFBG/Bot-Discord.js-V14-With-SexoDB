@@ -31,4 +31,4 @@ Ou criar um `.env`.
 - [SexoDB@1.0.2](https://www.npmjs.com/package/sexodb)
  
 
-## 🧪・By Aubrey#2981
+## 🧪・By misss_aubrey
